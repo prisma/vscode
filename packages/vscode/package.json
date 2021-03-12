@@ -17,7 +17,7 @@
     "crypto": "1.0.1",
     "chokidar": "3.5.1",
     "@prisma/language-server": "19.0.27",
-    "vscode-languageclient": "6.1.4"
+    "vscode-languageclient": "7.0.0"
   },
   "optionalDependencies": {
     "fsevents": "2.3.2"
